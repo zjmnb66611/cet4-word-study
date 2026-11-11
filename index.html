@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>四级背单词</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="study.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <button class="brand" data-view="home" type="button">
+        <span class="brand-mark" aria-hidden="true">Aa</span>
+        <span><strong>四级背单词</strong><small>星火词汇学习伴侣</small></span>
+      </button>
+      <nav class="navigation" aria-label="学习导航">
+        <button data-view="home" type="button">首页</button>
+        <button data-view="notebook" type="button">生词本</button>
+        <button data-view="quiz" type="button">测试</button>
+        <button data-view="search" type="button">搜索</button>
+        <button data-view="review" type="button">核对</button>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="shell main" tabindex="-1">
+    <div id="library-banner" hidden></div>
+    <p id="storage-warning" class="notice" role="status" hidden>浏览器目前无法保存学习记录，本次操作仅在页面打开期间有效。</p>
+    <div id="screen"></div>
+  </main>
+  <footer class="shell footer">
+    <span id="library-source">词库文件 · words.json</span>
+    <button class="quiet" id="choose-library" type="button">选择词库</button>
+    <input id="library-file" type="file" accept=".json,application/json" hidden>
+  </footer>
+  <div id="announcement" class="visually-hidden" role="status"></div>
+</body>
+</html>

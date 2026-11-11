@@ -1,0 +1,188 @@
+[
+  {
+    "id": "sample-01",
+    "word": "blue",
+    "phonetic": "/bluː/",
+    "pos_meanings": [
+      {
+        "pos": "adj.",
+        "meaning": "蓝色的"
+      }
+    ],
+    "mnemonic": "想象一张涂成蓝色的色卡，看到颜色时读一遍单词。",
+    "related_words": [
+      "color"
+    ],
+    "examples": [
+      {
+        "en": "The notebook is blue.",
+        "zh": "这本笔记本是蓝色的。"
+      }
+    ],
+    "unit": "测试单元 A",
+    "page": 0,
+    "needs_review": true,
+    "note": "测试数据，非书中内容"
+  },
+  {
+    "id": "sample-02",
+    "word": "moon",
+    "phonetic": "/muːn/",
+    "pos_meanings": [
+      {
+        "pos": "n.",
+        "meaning": "月亮"
+      }
+    ],
+    "mnemonic": "抬头看见月亮时，把画面和单词一起记住。",
+    "related_words": [],
+    "examples": [
+      {
+        "en": "The moon is bright tonight.",
+        "zh": "今晚的月亮很亮。"
+      }
+    ],
+    "unit": "测试单元 A",
+    "page": 0,
+    "needs_review": false,
+    "note": "测试数据，非书中内容"
+  },
+  {
+    "id": "sample-03",
+    "word": "chair",
+    "phonetic": "/tʃeə(r)/",
+    "pos_meanings": [
+      {
+        "pos": "n.",
+        "meaning": "椅子"
+      }
+    ],
+    "mnemonic": "指一下身边的椅子，再说出它的英文。",
+    "related_words": [],
+    "examples": [
+      {
+        "en": "The chair is by the window.",
+        "zh": "椅子在窗边。"
+      }
+    ],
+    "unit": "测试单元 A",
+    "page": 0,
+    "needs_review": false,
+    "note": "测试数据，非书中内容"
+  },
+  {
+    "id": "sample-04",
+    "word": "rain",
+    "phonetic": "/reɪn/",
+    "pos_meanings": [
+      {
+        "pos": "n.",
+        "meaning": "雨"
+      }
+    ],
+    "mnemonic": "把窗上的雨滴当作单词的提示。",
+    "related_words": [],
+    "examples": [
+      {
+        "en": "We listened to the rain.",
+        "zh": "我们听着雨声。"
+      }
+    ],
+    "unit": "测试单元 A",
+    "page": 0,
+    "needs_review": false,
+    "note": "测试数据，非书中内容"
+  },
+  {
+    "id": "sample-05",
+    "word": "apple",
+    "phonetic": "/ˈæpəl/",
+    "pos_meanings": [
+      {
+        "pos": "n.",
+        "meaning": "苹果"
+      }
+    ],
+    "mnemonic": "想象一个切开的苹果，再读一遍单词。",
+    "related_words": [],
+    "examples": [
+      {
+        "en": "She cut the apple in half.",
+        "zh": "她把苹果切成两半。"
+      }
+    ],
+    "unit": "测试单元 B",
+    "page": 0,
+    "needs_review": true,
+    "note": "测试数据，非书中内容"
+  },
+  {
+    "id": "sample-06",
+    "word": "fish",
+    "phonetic": "/fɪʃ/",
+    "pos_meanings": [
+      {
+        "pos": "n.",
+        "meaning": "鱼"
+      }
+    ],
+    "mnemonic": "看到鱼游动的画面时，试着说出这个词。",
+    "related_words": [],
+    "examples": [
+      {
+        "en": "The fish swam away.",
+        "zh": "鱼游走了。"
+      }
+    ],
+    "unit": "测试单元 B",
+    "page": 0,
+    "needs_review": false,
+    "note": "测试数据，非书中内容"
+  },
+  {
+    "id": "sample-07",
+    "word": "milk",
+    "phonetic": "/mɪlk/",
+    "pos_meanings": [
+      {
+        "pos": "n.",
+        "meaning": "牛奶"
+      }
+    ],
+    "mnemonic": "用一杯牛奶的画面做提示。",
+    "related_words": [],
+    "examples": [
+      {
+        "en": "I poured a glass of milk.",
+        "zh": "我倒了一杯牛奶。"
+      }
+    ],
+    "unit": "测试单元 B",
+    "page": 0,
+    "needs_review": false,
+    "note": "测试数据，非书中内容"
+  },
+  {
+    "id": "sample-08",
+    "word": "leaf",
+    "phonetic": "/liːf/",
+    "pos_meanings": [
+      {
+        "pos": "n.",
+        "meaning": "叶子"
+      }
+    ],
+    "mnemonic": "捡起一片落叶时，念一次这个单词。",
+    "related_words": [],
+    "examples": [
+      {
+        "en": "A leaf fell onto the path.",
+        "zh": "一片叶子落在小路上。"
+      }
+    ],
+    "unit": "测试单元 B",
+    "page": 0,
+    "needs_review": false,
+    "note": "测试数据，非书中内容"
+  }
+]
